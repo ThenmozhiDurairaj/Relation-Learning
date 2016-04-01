@@ -1,0 +1,65 @@
+C1:computer C2:hardware R:null I:constitute
+C1:computer C2:internet R:null I:null
+C1:computer C2:network R:is connected to  I:null
+C1:computer C2:security R:null I:null
+C1:computer C2:software R:null I:null
+C1:computer C2:algorithm R:execute I:is used by 
+C1:computer C2:artificial intelligence R:null I:null
+C1:computer C2:artificial life R:null I:null
+C1:computer C2:bulletin board system R:null I:null
+C1:computer C2:cad and cam R:null I:null
+C1:computer C2:computer and technology law R:null I:null
+C1:computer C2:data communication R:null I:null
+C1:computer C2:data formats R:null I:null
+C1:computer C2:desktop publishing R:null I:null
+C1:computer C2:encryption R:crack  I:null
+C1:computer C2:e-book R:null I:null
+C1:computer C2:emulators R:null I:null
+C1:computer C2:fonts R:null I:null
+C1:computer C2:game R:null I:null
+C1:computer C2:graphic R:null I:are created using
+C1:computer C2:hacking R:null I:null
+C1:computer C2:home automation R:null I:null
+C1:computer C2:human computer interaction R:null I:null
+C1:computer C2:intranet R:null I:null
+C1:computer C2:mis R:null I:null
+C1:computer C2:mobile computing R:null I:null
+C1:computer C2:multimedia R:null I:null
+C1:computer C2:newsgroup R:null I:null
+C1:computer C2:open source R:null I:null
+C1:computer C2:parallel computing R:null I:null
+C1:computer C2:performance and capacity R:null I:null
+C1:computer C2:programming R:null I:null
+C1:computer C2:robotics R:null I:null
+C1:computer C2:speech technology R:null I:null
+C1:computer C2:supercomputing R:null I:null
+C1:computer C2:usenet R:null I:null
+C1:computer C2:virtual reality R:null I:null
+C1:software C2:freeware R:null I:null
+C1:software C2:open source R:null I:refers to 
+C1:software C2:shareware R:null I:isA
+C1:software C2:abandonware R:become I:null
+C1:software C2:antivirus R:null I:isA
+C1:software C2:beta release R:null I:null
+C1:software C2:consultant R:null I:null
+C1:software C2:compiler R:make I:null
+C1:software C2:directories R:null I:null
+C1:software C2:device driver R:null I:isA
+C1:software C2:editor R:include I:isA
+C1:software C2:education R:null I:null
+C1:software C2:internet R:null I:null
+C1:software C2:intranet R:used for  I:null
+C1:software C2:malicious software R:null I:null
+C1:software C2:retailer R:null I:null
+C1:software C2:search engine R:null I:null
+C1:software C2:software engineering R:null I:null
+C1:software C2:word-process R:null I:isA
+C1:cryptography C2:file encryption R:null I:null
+C1:cryptography C2:hard disk encryption R:null I:null
+C1:cryptography C2:cipher R:null I:are used in 
+C1:cryptography C2:pgp R:null I:null
+C1:cryptography C2:steganography R:null I:null
+C1:cryptography C2:e-mail R:null I:null
+C1:cryptography C2:programming libraries R:null I:null
+C1:cryptography C2:public key R:require I:null
+C1:cryptography C2:ssh R:null I:null

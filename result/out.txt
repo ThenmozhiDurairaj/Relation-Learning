@@ -1,0 +1,4 @@
+C1:pesticide C2:borax R:null I:isA
+C1:pesticide C2:pollution R:cause I:null
+C1:fertilizer C2:pollutant R:isA I:null
+C1:chemical C2:xenobiotic R:null I:isA

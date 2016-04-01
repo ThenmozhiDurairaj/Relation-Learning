@@ -1,0 +1,55 @@
+C1:pesticide C2:residue R:leave I:include
+C1:pesticide C2:antifeedant R:isA I:null
+C1:pesticide C2:adjuvant R:null I:is used by 
+C1:pesticide C2:agrochemical R:null I:null
+C1:pesticide C2:resistance R:is used by  I:isA
+C1:pesticide C2:seed dressing R:null I:null
+C1:pesticide C2:avermectin R:null I:null
+C1:pesticide C2:xenobiotic R:isA I:comprise
+C1:pesticide C2:acceptable daily intake R:null I:null
+C1:pesticide C2:structure activity relation R:null I:null
+C1:pesticide C2:mode of action R:null I:null
+C1:pesticide C2:wood preservative R:null I:isA
+C1:pesticide C2:toxic substance R:null I:null
+C1:pesticide C2:systemic action R:null I:null
+C1:pesticide C2:antimicrobial R:include I:isA
+C1:pesticide C2:agent R:isA I:is added to 
+C1:pesticide C2:borax R:null I:isA
+C1:pesticide C2:chemical control R:null I:null
+C1:pesticide C2:chemical R:isA I:include
+C1:pesticide C2:farm input R:null I:null
+C1:pesticide C2:fertilizer combination R:null I:null
+C1:pesticide C2:foliar application R:null I:null
+C1:pesticide C2:fumigant R:null I:isA
+C1:pesticide C2:pest control R:are used for  I:null
+C1:pesticide C2:pesticidal properties R:comprise I:null
+C1:pesticide C2:industry R:in  I:null
+C1:pesticide C2:pollution R:cause I:null
+C1:pesticide C2:pollutant R:isA I:null
+C1:pesticide C2:repellent R:null I:null
+C1:pesticide C2:antimetabolites R:null I:null
+C1:fertilizer C2:pollutant R:isA I:null
+C1:fertilizer C2:soil amendment R:null I:null
+C1:fertilizer C2:seed pelleting R:null I:null
+C1:fertilizer C2:soil pollution R:cause I:null
+C1:fertilizer C2:fertilizer application R:null I:null
+C1:fertilizer C2:balanced fertilization R:null I:null
+C1:fertilizer C2:slag R:null I:null
+C1:fertilizer C2:foliar application R:null I:null
+C1:fertilizer C2:fertilizer indust R:null I:null
+C1:fertilizer C2:fertilizer technolog R:null I:null
+C1:fertilizer C2:biofertilizer R:null I:denote
+C1:fertilizer C2:agrochemical R:null I:null
+C1:fertilizer C2:fertilizer injur R:null I:null
+C1:fertilizer C2:basic slag R:null I:null
+C1:chemical C2:pesticide R:include I:isA
+C1:chemical C2:organic compound R:null I:isA
+C1:chemical C2:inorganic compound R:null I:null
+C1:chemical C2:xenobiotic R:null I:isA
+C1:chemical C2:additive R:null I:isA
+C1:chemical C2:catalyst R:null I:null
+C1:chemical C2:drug R:null I:null
+C1:chemical C2:chemical indust R:null I:null
+C1:chemical C2:chelating agent R:null I:null
+C1:chemical C2:isotope R:null I:null
+C1:chemical C2:acid R:null I:null

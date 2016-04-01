@@ -1,0 +1,65 @@
+computer,hardware
+computer,internet
+computer,network
+computer,security
+computer,software
+computer,algorithm
+computer,artificial intelligence
+computer,artificial life
+computer,bulletin board system
+computer,cad and cam
+computer,computer and technology law
+computer,data communication
+computer,data formats
+computer,desktop publishing
+computer,encryption
+computer,e-book
+computer,emulators
+computer,fonts
+computer,game
+computer,graphic
+computer,hacking
+computer,home automation
+computer,human computer interaction
+computer,intranet
+computer,mis
+computer,mobile computing
+computer,multimedia
+computer,newsgroup
+computer,open source
+computer,parallel computing
+computer,performance and capacity
+computer,programming
+computer,robotics
+computer,speech technology
+computer,supercomputing
+computer,usenet
+computer,virtual reality
+software,freeware
+software,open source
+software,shareware
+software,abandonware
+software,antivirus
+software,beta release
+software,consultant
+software,compiler
+software,directories
+software,device driver
+software,editor
+software,education
+software,internet
+software,intranet
+software,malicious software
+software,retailer
+software,search engine
+software,software engineering
+software,word-process
+cryptography,file encryption
+cryptography,hard disk encryption
+cryptography,cipher
+cryptography,pgp
+cryptography,steganography
+cryptography,e-mail
+cryptography,programming libraries
+cryptography,public key
+cryptography,ssh

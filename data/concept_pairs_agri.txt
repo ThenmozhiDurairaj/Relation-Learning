@@ -1,0 +1,63 @@
+pesticide,residue
+pesticide,antifeedant
+pesticide,adjuvant
+pesticide,agrochemical
+pesticide,resistance
+pesticide,seed dressing
+pesticide,avermectin
+pesticide,xenobiotic
+pesticide,acceptable daily intake
+pesticide,structure activity relation
+pesticide,mode of action
+pesticide,wood preservative
+pesticide,toxic substance
+pesticide,systemic action
+pesticide,antimicrobial
+pesticide,agent
+pesticide,borax
+pesticide,chemical control
+pesticide,chemical
+pesticide,farm input
+pesticide,fertilizer combination
+pesticide,foliar application
+pesticide,fumigant
+pesticide,pest control
+pesticide,pesticidal properties
+pesticide,industry
+pesticide,pollution
+pesticide,pollutant
+pesticide,repellent
+pesticide,antimetabolites
+fertilizer,pollutant
+fertilizer,soil amendment
+fertilizer,seed pelleting
+fertilizer,soil pollution
+fertilizer,fertilizer application
+fertilizer,balanced fertilization
+fertilizer,slag
+fertilizer,foliar application
+fertilizer,fertilizer indust
+fertilizer,fertilizer technolog
+fertilizer,biofertilizer
+fertilizer,agrochemical
+fertilizer,fertilizer injur
+fertilizer,basic slag
+chemical,pesticide
+chemical,organic compound
+chemical,inorganic compound
+chemical,xenobiotic
+chemical,additive
+chemical,catalyst
+chemical,drug
+chemical,chemical indust
+chemical,chelating agent
+chemical,isotope
+chemical,acid
+
+
+pesticide,antifeedant
+pesticide,xenobiotic
+pesticide,antimicrobial
+pesticide,borax
+pesticide,pollution
+pesticide,pollutant

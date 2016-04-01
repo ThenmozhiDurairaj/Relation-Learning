@@ -1,0 +1,45 @@
+(S
+  (NP (NNS xenobiotics))
+  (VP (VBP are)
+    (NP
+      (NP (DT any) (JJ chemical) (NNS compounds))
+      (SBAR
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP are)
+              (VP (VBN found)
+                (PP (IN in)
+                  (NP (DT a) (VBG living) (NN organism)))))))
+        (, ,)
+        (CC but)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBP are)
+              (ADJP (JJ foreign)
+                (PP (TO to)
+                  (NP
+                    (NP (DT that) (NN organism))
+                    (, ,)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NN sense))
+                        (SBAR (IN that)
+                          (S
+                            (NP (PRP it))
+                            (VP (VBZ does) (RB not)
+                              (ADVP (RB normally))
+                              (VP
+                                (VP (VB produce)
+                                  (NP (DT the) (NN compound)))
+                                (CC or)
+                                (VP (VB consume)
+                                  (NP (PRP it))
+                                  (PP (IN as)
+                                    (NP
+                                      (NP (NN part))
+                                      (PP (IN of)
+                                        (NP (PRP$ its) (NN diet)))))))))))))))))))))
+  (. .))
+

@@ -1,0 +1,45 @@
+NP microorganism VP play  NP role
+NP ? VP maintaining  of  NP concentration
+NP aim VP was  NP development
+NP ? VP measuring  NP effect
+NP literature VP is  with  NP study
+NP water PP including  NP survey
+NP datum VP is  in  NP question
+NP : NP significance  of  NP datum
+NP event VP may  be  induced  by  NP chemical
+NP event VP may  be  induced  by  NP condition
+NP chemical VP is CC and  NP event
+NP xenobiotic VP are  for  NP life
+NP xenobiotic VP mimics  NP biochemical
+NP xenobiotic VP refers  to  NP compound
+NP ? VP have  NP characteristic
+NP research VP is  needed  to  determine  NP reaction
+NP soil VP transform  NP compound
+NP ? VP phytotransformationin  NP case
+NP canna VP render  NP non-toxic
+NP function VP may  be  NP alter
+NP alter PP following  NP inadvertent
+NP identify VP identifying  NP medicine
+NP identify VP identifying  NP pesticide
+NP ? VP are  NP inhibitor
+NP ? VP are  NP substrate
+NP we VP prioritize  NP testing
+NP ? VP to  result  in  NP interaction
+NP method VP qualitatively  NP pattern
+NP method VP to  screen  NP rapidly
+NP it VP is  intended  as  NP method
+NP metabolite VP produce  NP metabolite
+NP to VP produce  NP metabolite
+NP chemical VP is  found  in  NP npganism
+NP xenobiotic VP is  NP chemical
+NP ? VP not CC or  expected  to  be ADJP present  in  NP it
+NP compound VP can  become  NP xenobiotic
+NP they VP are  taken PRT up  by  NP npganism
+NP fish VP found  NP downstream
+NP outfall VP produced  by  NP npganism
+NP defens VP produced  by  NP npganism
+NP xenobiotic VP are  found  in  NP npganism
+NP xenobiotic VP are  NP compound
+NP ? VP are  to  NP npganism
+NP it VP not  produce  NP compound
+NP it VP not  produce  NP consume
