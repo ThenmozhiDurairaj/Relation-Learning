@@ -6,15 +6,15 @@
   
    b. Run the command
 	   
-	     java –jar LearnRel2.jar data/corpus.txt data/concept_pair.txt result/out.txt
+	     java â€“jar LearnRel2.jar data/corpus.txt data/concept_pair.txt result/out.txt
 
       Agriculture Domain:
 	
-	     java –jar LearnRel2.jar data/corpus_agri.txt data/concept_pairs_agri.txt result/out_agri.txt
+	     java â€“jar LearnRel2.jar data/corpus_agri.txt data/concept_pairs_agri.txt result/out_agri.txt
 
       Computer Domain:
 
-	     java –jar LearnRel2.jar data/corpus_computer.txt data/concept_pairs_comp.txt result/out_comp.txt
+	     java â€“jar LearnRel2.jar data/corpus_computer.txt data/concept_pairs_comp.txt result/out_comp.txt
 
 
 2. To use the source
@@ -28,8 +28,8 @@
    				stanford-corenlp-2012-07-06-models.jar
                       
    				stanford-corenlp-2012-07-09.jar
-                     
-    				xom.jar
+    			
+				xom.jar
   
  	b. Input: **/data/in.txt**
   
