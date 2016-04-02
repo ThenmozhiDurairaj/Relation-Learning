@@ -1,0 +1,68 @@
+
+
+S.No.	Concept1	Concept2	Relation	Inverse-Relation
+1	Computer	Hardware	---	isPartOf
+2	Computer	Internet 	---	---
+3	Computer	Network		isConnectedTo	---
+4	Computer	Security	---	---
+5	Computer	Software	---	make
+6	Computer	Algorithms     execute	isUsedBy
+7	Computer	Artificial Intelligence	---	---
+8	Computer	Artificial Life		---	---
+9	Computer	Bulletin Board System	---	---
+10	Computer	CAD and CAM	---	---
+11	Computer	Computer and Technology Law	---	---
+12	Computer	Data Communications	---	---
+13	Computer	Data Format	---	---
+14	Computer	Desktop Publishing	---	---
+15	Computer	Encryption	crack	---
+16	Computer	E-Book		---	---
+17	Computer	Emulator	---	isPartOf
+18	Computer	Font	---	---
+19	Computer	Game	---	---
+20	Computer	Graphics	---	isCreatedUsing
+21	Computer	Hacking		---	---
+22	Computer	Home Automation ---	---
+23	Computer	Human-Computer Interaction ---	---
+24	Computer	Intranet	---	isInterConnectionOf
+25	Computer	MIS	---	---
+26	Computer	Mobile Computing	---	---
+27	Computer	Multimedia	---	isFieldWith
+28	Computer	Newsgroups	---	---
+29	Computer	Open Source	---	---
+30	Computer	Parallel Computing	---	---
+31	Computer	Performance and Capacity	---	---
+32	Computer	Programming	---	---
+33	Computer	Robotics 	---	---
+34	Computer	Speech Technology	---	---
+35	Computer	Supercomputing	---	---
+36	Computer	Usenet	---	---
+37	Computer	Virtual Reality	---	---
+38	Cryptography	File Encryption ---	---
+39	Cryptography	Hard Disk Encryption  ---	---
+40	Cryptography	Cipher	---	isUsedIn
+41	Cryptography	PGP	---	
+42	Cryptography	Steganography	---	isKindOf
+43	Cryptography	E-Mail	---	---
+44	Cryptography	Programming Libraries	---	---
+45	Cryptography	Public Key	require	---
+46	Cryptography	SSH	---	---
+47	Software	Freeware 	---	---
+48	Software	Open Source	---	referTo
+49	Software	Shareware	---	isA
+50	Software	Abandonware 	become	---
+51	Software	Beta Release	---	---
+52	Software	Consultants 	---	---
+53	Software	Compilers	make	---
+54	Software	Device Driver	---	isA
+55	Software	Directories	---	---
+56	Software	Editors	include	isA
+57	Software	Education	---	---
+58	Software	Internet 	---	---
+59	Software	Intranet 	usedFor	---
+60	Software	Malicious Software	---	---
+61	Software	Retailer	---	---
+62	Software	Search Engines	---	isKindOf
+63	Software	Software Engineering	---	---
+64	Software	Word Processors 	---	isA
+65	Software	Anti-Virus	---	isA

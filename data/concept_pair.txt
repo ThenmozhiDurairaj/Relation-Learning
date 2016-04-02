@@ -1,4 +1,0 @@
-pesticide,borax
-pesticide,pollution
-fertilizer,pollutant
-chemical,xenobiotic

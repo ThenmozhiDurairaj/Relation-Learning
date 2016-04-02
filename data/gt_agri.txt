@@ -1,0 +1,58 @@
+S.No.	Concept1	Concept2	Relation	Inverse-Relation
+1	Pesticide 	Residue		Leaves 		Include
+2	Pesticide 	Antifeedant	IsA	---
+3	Pesticide 	Adjuvant 	---	isUsedBy
+4	Pesticide 	Agrochemical	---	---
+5	Pesticide 	Resistance	isUsedBy	IsA
+6	Pesticide 	Seed Dressing	---	---
+7	Pesticide 	Avermectin	---	---
+8	Pesticide 	Xenobiotic 	IsA	Comprise
+9	Pesticide	Acceptable Daily Intake	---	isMeasureOf
+10	Pesticide 	Structure Activity Relationship	---	---
+11	Pesticide 	Mode of Action	---	---
+12	Pesticide 	Wood Preservative	---	IsA
+13	Pesticide 	Toxic substances	---	---
+14	Pesticide 	Systemic Actions	---	---
+15	Pesticide 	Antimicrobial 	Include	IsA
+16	Pesticide 	Agent	IsA	isAddedTo
+17	Pesticide 	Borax	---	IsA
+18	Pesticide 	Chemical Control	---	---
+19	Pesticide 	Chemical	IsA	Include
+20	Pesticide 	Farm Inputs	isA	---
+21	Pesticide 	Fertilizer Combination	---	---
+22	Pesticide 	Foliar Application	---	---
+23	Pesticide 	Fumigant	---	IsA
+24	Pesticide 	Pest Control	isUsedFor	---
+25	Pesticide 	Pesticidal Properties	comprise	---
+26	Pesticide 	Industry	areIn	--- 
+27	Pesticide 	Pollutant	IsA	---
+28	Pesticide 	Pollution	Causes	---
+29	Pesticide 	Repellent	---	---
+30	Pesticide 	Antimetabolites 	---	---
+31	Fertilizer	Pollutants	isA	---
+32	Fertilizer	Soil amendments	---	---
+33	Fertilizer	Seed pelleting	---	---
+34	Fertilizer	Soil pollution	Cause	---
+35	Fertilizer	Fertilizer application	---	---
+36	Fertilizer	Balanced fertilization	---	keyForImproving
+37	Fertilizer	Slags	---	isA
+38	Fertilizer	Foliar application	---	---
+39	Fertilizer	Fertilizer industry	---	---
+40	Fertilizer	Fertilizer technology	---	---
+41	Fertilizer	Biofertilizers	---	Denote
+42	Fertilizer	Agrochemicals	---	---
+43	Fertilizer	Fertilizer injury	---	---
+44	Fertilizer	Basic slag	---	isA
+45	Chemical	Pesticides	Include	isA
+46	Chemical	Organic compounds	---	isA
+47	Chemical	Inorganic compounds	---	---
+48	Chemical	Xenobiotics	---	isA
+49	Chemical	Additives	---	isA
+50	Chemical	Catalyst	---	isSubstanceAddedTo
+51	Chemical	Drugs	---	---
+52	Chemical	Chemical industry	---	---
+53	Chemical	Chelating agents	---	isA
+54	Chemical	Isotopes	---	isFormOf
+55	Chemical	Acids 	---	isSubstanceOf
+
+
