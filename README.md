@@ -17,7 +17,7 @@
 	     java –jar LearnRel2.jar data/corpus_computer.txt data/concept_pairs_comp.txt result/out_comp.txt
 
 
-(**Note 1:** The performance may be measured by comparing *result/out_agri.txt* against *data/gt_agri.txt* and *result/out_comp.txt* against *data/gt_comp.txt*)
+		(**Note 1:** The performance may be measured by comparing *result/out_agri.txt* against *data/gt_agri.txt* and 	*result/out_comp.txt* against *data/gt_comp.txt*)
 
 2. To visualize the output
 
