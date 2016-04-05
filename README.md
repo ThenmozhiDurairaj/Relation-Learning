@@ -31,6 +31,6 @@
    
    e. Export Cmap as image file 
    
- 	(**Note 2:** The visualized form of *out_agri.txt*, *out_comp.txt*, *gt_agri.txt* and *gt_comp.txt* are available in */result* folder)  
+ 	(**Note 2:** The resultant images are available in */result* folder)  
    
    	
