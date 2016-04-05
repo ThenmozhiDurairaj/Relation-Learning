@@ -17,4 +17,20 @@
 	     java –jar LearnRel2.jar data/corpus_computer.txt data/concept_pairs_comp.txt result/out_comp.txt
 
 
-(**Note:** The performance may be measured by comparing *result/out_agri.txt* against *data/gt_agri.txt* and *result/out_comp.txt* against *data/gt_comp.txt*)
+	(**Note 1:** The performance may be measured by comparing *result/out_agri.txt* against *data/gt_agri.txt* and 	*result/out_comp.txt* against *data/gt_comp.txt*)
+
+2. To visualize the output
+
+   a. Download [Cmap tool](http://cmap.ihmc.us/) 
+   
+   b. Create new Cmap
+   
+   c. Enter new proposition by using Cmap List View (e.g. to enter a triple (Pesticide, causes, Pollution), enter Pesticide as concept, causes as linking phrase and Pollution as concept)
+   
+   d. Do required alignment
+   
+   e. Export Cmap as image file 
+   
+ 	(**Note 2:** The resultant images are available in */result* folder)  
+   
+   	
