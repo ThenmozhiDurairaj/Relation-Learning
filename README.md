@@ -25,12 +25,12 @@
    
    b. Create new Cmap
    
-   c. Enter new proposition by using Cmap List View (e.g. to enter a triple (Pesticide, causes, Pllution), enter Pesticide as concept, causes as Linking Phrase and Pollution as concept)
+   c. Enter new proposition by using Cmap List View (e.g. to enter a triple (Pesticide, causes, Pollution), enter Pesticide as concept, causes as linking phrase and Pollution as concept)
    
    d. Do required alignment
    
    e. Export Cmap as image file 
    
- (**Note 2:** The visualized form of *out_agri.txt*, *out_comp.txt*, *gt_agri.txt* and *gt_comp.txt* are available in */result* folder)  
+ 	(**Note 2:** The visualized form of *out_agri.txt*, *out_comp.txt*, *gt_agri.txt* and *gt_comp.txt* are available in */result* folder)  
    
    	
