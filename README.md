@@ -21,13 +21,13 @@
 
 2. To visualize the output
 
-   a. Download [Cmap tool](http://cmap.ihmc.us/) 
+   a. Download and install [Cmap tool](http://cmap.ihmc.us/) 
    
    b. Create new Cmap
    
    c. Enter new proposition by using Cmap List View (e.g. to enter a triple (Pesticide, causes, Pollution), enter Pesticide as concept, causes as linking phrase and Pollution as concept)
    
-   d. Do required alignment
+   d. Adjust the alignment
    
    e. Export Cmap as image file 
    
