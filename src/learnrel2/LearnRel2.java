@@ -33,8 +33,7 @@ public class LearnRel2 {
         // TODO code application logic here
          try
             {
-         //   String s1= "data/in2.txt";
-                if (args.length == 0) {
+              if (args.length == 0) {
 
    System.out.println("No Command Line arguments");
    
@@ -43,15 +42,10 @@ public class LearnRel2 {
                     System.out.println("args[" + i + "]: " + args[i]);}
                 }
                     
-                    //String s1= "data/"+args[0];
-                      String s1= args[0];
-             //     String s1= "data/corpus_computer.txt";
-        
-                //String s2="data/concept_pairs_comp.txt";
-                 //String s2="data/"+args[1];
+                     String s1= args[0];
+             
                  String s2=args[1];
-      //              String s2="data/concept_pair.txt";
-                 
+                       
                    String s4="result/temp/cansentcm.txt";
                      
             String concept1,concept2, line1;
@@ -60,12 +54,11 @@ public class LearnRel2 {
             sentdiv sd=new sentdiv();
             cantrip ct=new cantrip();
             relsug rg=new relsug();
+            relset rs=new relset();
             
-            //String s5="result/temp/rellabel.txt";
-            
-             //String s5="result/"+args[2];
+      
                String s5=args[2];
-        //       String s5="result/out.txt";
+      
             FileWriter fw=new FileWriter(s5);
              BufferedWriter bw=new BufferedWriter(fw); 
                 
@@ -81,17 +74,23 @@ public class LearnRel2 {
                 concept1=st.nextToken();
                 concept2=st.nextToken();
             cs.sent(s1,concept1,concept2);
-             //ch.chunk(s1);
+      
              ch.chunk(s4);
             sd.div();
             ct.trip(concept1,concept2);
             rg.rel(concept1,concept2,bw);
                 
            }    
-            System.out.println("Program Executed Successfully");
+           
                          
     bw.close();    
             
+        FileReader fr2=new FileReader(s5);
+            BufferedReader br2=new BufferedReader(fr2);
+            
+             rs.rel_set(br2);
+             
+              System.out.println("\n\nProgram Executed Successfully");
             }
             catch(Exception E)
             {
